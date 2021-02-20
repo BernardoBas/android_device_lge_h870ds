@@ -42,4 +42,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="lucye_global_com" \
     PRIVATE_BUILD_DESC="lucye_global_com-user 9 PKQ1.190522.001 192632011c72d release-keys"
 
-BUILD_FINGERPRINT := "lge/lucye_global_com/lucye:9/PKQ1.190522.001/192632011c72d:user/release-keys"
+BUILD_FINGERPRINT := "google/coral/coral:11/RQ1A.210205.004/7038034:user/release-keys"
